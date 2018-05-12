@@ -1,0 +1,36 @@
+_repo: The-Sayings-Of-Confucius_24055
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lyall, Leonard Arthur
+    birthdate: 1867
+    gutenberg_agent_id: '26206'
+    url: http://www.gutenberg.org/2009/agents/26206
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+description: ''
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confucianism'
+- !lcc 'B'
+- !lcc 'PL'
+- !lcsh 'Philosophy, Chinese'
+title: The Sayings of Confucius
+url: http://www.gutenberg.org/ebooks/24055
